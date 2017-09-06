@@ -38,6 +38,15 @@ h6 {
   font-weight: 200;
   letter-spacing: 1px; }
 
+.myWorkTitle {
+	color:rgb(240,136,38);
+}
+
+.myMoneyTitle {
+	color:rgb(55,147,193);
+}
+
+
 p {
   font-size: 18px;
   line-height: 1.5;
@@ -58,7 +67,7 @@ section {
   font-weight: 200;
   letter-spacing: 1px; }
   #mainNav .navbar-brand {
-    color: #fdcc52;
+    color: rgb(240,136,38);
     font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
     font-weight: 200;
     letter-spacing: 1px; }
@@ -118,9 +127,9 @@ header.masthead {
   padding-top: 150px;
   padding-bottom: 100px;
   color: white;
-  background: url("../img/bg-pattern.png"), #7b4397;
-  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #7b4397, #dc2430);
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430); }
+  background: url("../img/bg-pattern.png"), rgb(240,136,38);
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, rgb(240,136,38), rgb(55,147,193));
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, rgb(240,136,38), rgb(55,147,193)); }
   header.masthead .header-content {
     max-width: 500px;
     margin-bottom: 100px;
