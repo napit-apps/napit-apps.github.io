@@ -5,4 +5,10 @@ section {
 .section-header-image {
 	width: 100%;
 	height: auto;
+	padding: 0 0 20px 0;
+}
+
+.text-muted {
+	font-size: 16px;
+	color: #5a6065 !important;
 }
