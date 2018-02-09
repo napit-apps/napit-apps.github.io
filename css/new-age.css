@@ -292,7 +292,11 @@ footer {
   background: -webkit-linear-gradient(#fdcc52, #fdc539);
   background: linear-gradient(#fdcc52, #fdc539); }
 
-.bg-primary-blue
+.bg-primary-blue {
+  background: rgb(48, 129, 183);
+  background: -webkit-linear-gradient(rgb(72, 163, 218), rgb(48, 129, 183));
+  background: linear-gradient(rgb(72, 163, 218), rgb(48, 129, 183));
+}
 
 .text-primary {
   color: #fdcc52; }
