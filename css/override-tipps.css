@@ -17,6 +17,12 @@ p {
 	color: #5a6065 !important;
 }
 
+.nav-link,
+a.active,
+a:hover {
+	color: rgba(41, 128, 185, 1.0);
+}
+
 #mainNav .navbar-nav > li > a.active,
 #mainNav .navbar-nav > li > a:hover,
 #mainNav .navbar-nav > li > a:focus:hover {
