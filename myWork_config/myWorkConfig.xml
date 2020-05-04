@@ -5,7 +5,10 @@
         <article name="auto"/>
         <article name="activities"/>
         <article name="overtime"/>
-        <article name="icloud"/>
+        <!-- <article name ="icloud"/> -->
+        <!-- <article name ="pdf"/> -->
+        <!-- <article name ="shortworking"/> -->
+        <!-- <article name ="pdf"/> -->
     </articles>
 </myWork>
 
