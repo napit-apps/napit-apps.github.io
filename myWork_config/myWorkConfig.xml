@@ -1,4 +1,10 @@
 <myWork>
     <support email="help.myWork@web.de"/>
+    <articles>
+        <article name="start"/>
+        <article name="auto"/>
+        <article name="activities"/>
+        <article name="overtime"/>
+    </articles>
 </myWork>
 
