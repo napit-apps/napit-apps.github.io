@@ -7,7 +7,8 @@
         <article name="overtime"/>
         <article name ="shortworking"/>
         <article name ="icloud"/>
-        <!-- <article name ="pdf"/> -->
+        <article name ="active_tracking"/>
+        <article name ="pdf_export"/>
         <!-- <article name ="pdf"/> -->
     </articles>
 </myWork>
