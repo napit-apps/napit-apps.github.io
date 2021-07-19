@@ -9,6 +9,7 @@
         <article name ="icloud"/>
         <article name ="active_tracking"/>
         <article name ="pdf_export"/>
+        <article name ="working_models"/>
         <!-- <article name ="pdf"/> -->
     </articles>
 </myWork>
